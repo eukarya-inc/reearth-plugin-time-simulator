@@ -1,4 +1,5 @@
-# Time Simulator プラグイン
+# Time Simulator Plugin
+
 
 <img width="1383" src="src/timeSimulatorTopImg.png">
 
