@@ -1,0 +1,16 @@
+name: Time Simulation
+version: 1.0.0
+id: time-simulation-plugin
+extensions:
+  - id: time-simulation
+    type: widget
+    name: Time Simulation
+    widgetLayout:
+      defaultLocation:
+        zone: outer
+        section: right
+        area: top
+    schema:
+     
+
+
