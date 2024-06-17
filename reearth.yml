@@ -1,4 +1,4 @@
-name: Time Simulation
+name: Time Simulator Plugin
 version: 1.0.0
 id: time-simulation-plugin
 extensions:
