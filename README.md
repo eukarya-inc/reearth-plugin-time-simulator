@@ -1,7 +1,5 @@
 # Time Simulator Plugin
-
-
-<img width="1383" src="src/timeSimulatorTopImg.png">
+![Time Simulator Plugin-1](https://github.com/eukarya-inc/reearth-plugin-time-simulator/assets/53960439/321e2f38-f1d8-4793-b6c6-dc0c2a329021)
 
 
 ## このプラグインについて
